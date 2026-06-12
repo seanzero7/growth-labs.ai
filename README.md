@@ -67,7 +67,7 @@ Note: the `Back to Growth Labs AI` link on `404.html` points to `/`, which is co
 
 ## Before launch — placeholders to update
 
-- **Email addresses** — the site uses `hello@growth-labs.ai` and `careers@growth-labs.ai` (matched to the domain). Confirm these mailboxes exist once domain email is set up, or find-and-replace in `index.html`.
+- **Email addresses** — all contact links point to `trilogylabsllc@gmail.com`. To switch to domain email later (e.g. `hello@growth-labs.ai`), find-and-replace in `index.html`.
 - **Metrics** — the hero console numbers (12.4M views, 38.2K installs, etc.) and the stats band (10×, 1,000+, 24/7, 100%) are illustrative placeholders. Swap in real numbers as you have them.
 - **Social links** — the LinkedIn / Instagram / X links in the footer are `#` placeholders.
 - **OG image (optional)** — add a 1200×630 PNG and reference it with `<meta property="og:image" content="...">` in `<head>` for richer link previews.
